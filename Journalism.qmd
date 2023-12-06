@@ -1,10 +1,12 @@
 ---
-title: "Journalism"
+title: "Is a Happy Ever After Possible for Movie Theaters?"
 format: html
 editor: visual
 ---
 
-## Is a Happy Ever After Possible for Movie Theaters?
+## by: Nikola Misetic
+
+Home page
 
 The movie industry was hit hard as a result of the Covid-19 pandemic, but communities on Long Island may never recover.
 
