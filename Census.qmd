@@ -1,26 +1,78 @@
 ---
-title: "Census"
-format: html
-editor: visual
+title: "Illinois Median Income"
+format:
+  html:
+    self-contained: true
+    toc: true
+    toc-location: left
+editor: 
+  markdown: 
+    wrap: sentence
 ---
 
-## Quarto
+## Preparation
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+First, we must download the necessary packages so that RStudio can perform these functions properly:
 
-## Running Code
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+library(tidyverse)
+library(tigris)
+library(sf)
+library(tidycensus)
+library(htmltools)
+library(janitor)
+library(here)
+library(mapview)
+library(leafsync)
+library(leaflet.extras2)
+options(tigris_class = "sf")
 
-```{r}
-1 + 1
 ```
 
-You can add options to executable code like this
+Next, we are going to import census data.
+For our purposes, we will use data from 2021.
+We will also generate a table to demonstrate all possible conditions
 
 ```{r}
-#| echo: false
-2 * 2
+myapikey <- "7ec164ce2e6d7eff05a3da72fa85dec41773e398"
+census_api_key(myapikey, overwrite = TRUE)
+
+v20 <- load_variables(2021, "acs5", cache=TRUE)
 ```
 
-The `echo: false` option disables the printing of code (only output is displayed).
+## Finding the Data
+
+With all the information properly imported, we can begin collecting our data.
+Using the code below, we can sort the data into counties.
+Next we use the census key to only highlight median income.
+Finally, we must filter for the state of Illinois itself
+
+```{r}
+il_median_income <- get_acs(geography = 'county', 
+                         variables = c(median_income = 'B19013_001'), 
+                         state = 'IL',
+                         output = "wide",
+                       geometry = TRUE)
+il_median_income
+```
+
+Next we will remove some unnecessary columns to make the data easier to look at
+
+```{r}
+il_median_income <- il_median_income %>%
+  select(-ends_with("M"))
+
+colnames(il_median_income) <- sub("E$", "", colnames(il_median_income))
+
+il_median_income
+```
+
+Now, we can generate a map of the state with the following code:
+
+```{r}
+mapview(il_median_income, zcol = "median_income")
+```
+
+As we can see, only Chicago and Monroe County residents make above the median income
