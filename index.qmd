@@ -30,7 +30,7 @@ One of the first journalism classes I took at GW was Introduction to News Writin
 
 You can read that article [here](https://nmisetic.github.io/mywebsite/Journalism.html).
 
-### Contact Info/Other Links
+## Contact Info/Other Links
 
 Github: <https://github.com/nmisetic>
 
