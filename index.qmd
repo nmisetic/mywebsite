@@ -8,7 +8,7 @@ editor: visual
 
 My name is Nikola Misetic and I am a senior at the George Washington University. I am a political science major and with both journalism and history minors. My previous work experiences include internships on both Capitol Hill and the NYC Office of the Mayor. Politics has always been a passion of mine, and I am always striving to improve both myself and the work that I do.
 
-![](Grad Photo.png){fig-align="center"}
+![](Grad%20Photo.png){fig-align="center"}
 
 You can find my resume [here](https://github.com/nmisetic/mywebsite/blob/main/Nikola%20Misetic%20Resume.pdf).
 
