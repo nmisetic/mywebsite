@@ -69,6 +69,8 @@ colnames(il_median_income) <- sub("E$", "", colnames(il_median_income))
 il_median_income
 ```
 
+## Making the Map
+
 Now, we can generate a map of the state with the following code:
 
 ```{r}
