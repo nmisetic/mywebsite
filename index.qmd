@@ -16,6 +16,8 @@ You can find my resume [here](https://github.com/nmisetic/mywebsite/blob/main/Ni
 
 ### Census Analysis
 
+For my last fall semester, I am currently taking a journalism class that teaches how to use Github and RStudio. These two skills are essential for reporting data in real time and creating my own webpages. One of the things we learned to do was create maps that illustrate differences in data geographically. Using that knowledge, I will illustrate counties that live above and bellow the median income level for that state in Illinois.
+
 You can find this analysis here.
 
 ### Academic Paper
