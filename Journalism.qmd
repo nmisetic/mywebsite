@@ -6,7 +6,7 @@ editor: visual
 
 ## by: Nikola Misetic
 
-Home page
+[Home page](https://nmisetic.github.io/mywebsite/)
 
 The movie industry was hit hard as a result of the Covid-19 pandemic, but communities on Long Island may never recover.
 
