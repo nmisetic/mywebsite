@@ -4,15 +4,15 @@ format: html
 editor: visual
 ---
 
-# Hello!
+## Hello!
 
 My name is Nikola Misetic and I am a senior at the George Washington University.
 
 ![](Grad Photo.png){fig-align="center"}
 
-You can see my resume here.
+You can see find resume [here](https://github.com/nmisetic/mywebsite/blob/main/Nikola%20Misetic%20Resume.pdf).
 
-# Work Examples
+## Work Examples
 
 When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
 
