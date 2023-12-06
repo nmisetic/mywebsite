@@ -10,6 +10,8 @@ editor:
     wrap: sentence
 ---
 
+[Home page](https://nmisetic.github.io/mywebsite/)
+
 ## Preparation
 
 First, we must download the necessary packages so that RStudio can perform these functions properly:
