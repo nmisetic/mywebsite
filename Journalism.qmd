@@ -4,23 +4,32 @@ format: html
 editor: visual
 ---
 
-## Quarto
+## Is a Happy Ever After Possible for Movie Theaters?
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+The movie industry was hit hard as a result of the Covid-19 pandemic, but communities on Long Island may never recover.
 
-## Running Code
+Since the 1930s, the film industry has been one of the most popular forms of entertainment. Cinemas during the \"Golden Age\" of the 1930s and 40s, saw 31 million visits each week, according to the National Science and Media Museum. In the early 2000s, however, this number was roughly 3 million per week.
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+Today, most people see films on television through terrestrial, satellite, or subscription services, according to the Museum. Although America appears to be the influential film industry, many films are produced internationally. Streaming has become more common as it has become more convenient for modern lifestyles.
 
-```{r}
-1 + 1
-```
+The Covid-19 pandemic has greatly hastened the decline of the cinema industry. As a result of social distancing and mask mandates, it has become harder for theaters to sell tickets. According to Florida State University, the US box office alone was projected to lose \$5 billion dollars.
 
-You can add options to executable code like this
+Covid-19 restrictions led many local movie theaters on Long Island to decide to close their doors temporarily until they could turn a profit. Two years later, these doors will never open again. Most theaters that remain on the peninsula are owned by big movie companies AMC and Regal, according to Google Maps.
 
-```{r}
-#| echo: false
-2 * 2
-```
+\"From what I have seen recently, Covid-19 has been the catalyst for businesses going out of business,\" said Robert Pelaez regarding Long Island\'s local theaters. \"Some theaters might have had their own unique problems, but Covid was definitely the straw that broke the camel\'s back.\"
 
-The `echo: false` option disables the printing of code (only output is displayed).
+Pelaez is a reporter for The Island Now, which reports local events on Long Island. Pelaez broke the story of the closing of Soundview Cinemas in September, a popular local theater located in Port Washington, due to the pandemic. The theater had closed once before but had reopened in 2013 under new ownership.
+
+\"Soundview closing was absolutely devastating to the community,\" said Eric Holm. \"Everyone was so excited when it opened back up when we were kids. It was a really popular spot to hang out. And now it\'s gone.\"
+
+Holm is a sophomore at GW studying mechanical and aerospace engineering. He has lived on Long Island his entire life. Going to the theater with friends was a big part of his childhood, so these losses had a great impact on him.
+
+Another theater located in Great Neck, Squire Theater, was also shut down a year prior to Soundview. The theater dates back to 1935 and has been a historical staple of the community for decades.
+
+\"Movie theaters are the \'Amazon\' of the entertainment industry,\" Pelaez said. \"As a movie goer myself, I realize how essential the local theater is to a community. It\'s something many people love, and lately have taken for granted. You never know what you truly have until it\'s gone.\"
+
+The pandemic has increased the growing popularity of streaming services as an alternative to movie theaters. In 2020, Disney released Black Widow on their streaming service, Disney+, and in theaters on the same day. The movie generated \$500 million total, and Disney+ generated a quarter of that.
+
+Lost profits due to the pandemic will make it hard for local theaters to afford ways to entice people back. This will dissuade potential new owners, meaning Long Island might have lost its local theaters for good.
+
+\"They\'ll have to adapt, maybe attract an older crowd with new promotions\" Pelaez said. \"Unless you\'re AMC, you don\'t necessarily have the funds to do these things. The streaming war is coming in full force, and it\'s not looking good for theaters.\"
