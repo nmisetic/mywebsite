@@ -6,11 +6,11 @@ editor: visual
 
 # Hello!
 
-My name is Nikola Misetic...
-
-You can see my resume here.
+My name is Nikola Misetic and I am a senior at the George Washington University.
 
 ![](Grad Photo.png){fig-align="center"}
+
+You can see my resume here.
 
 # Work Examples
 
