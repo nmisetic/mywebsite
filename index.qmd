@@ -6,25 +6,30 @@ editor: visual
 
 ## Hello!
 
-My name is Nikola Misetic and I am a senior at the George Washington University.
+My name is Nikola Misetic and I am a senior at the George Washington University. I am a political science major and with both journalism and history minors. My previous work experiences include internships on both Capitol Hill and the NYC Office of the Mayor. Politics has always been a passion of mine, and I am always striving to improve both myself and the work that I do.
 
 ![](Grad Photo.png){fig-align="center"}
 
-You can see find resume [here](https://github.com/nmisetic/mywebsite/blob/main/Nikola%20Misetic%20Resume.pdf).
+You can find my resume [here](https://github.com/nmisetic/mywebsite/blob/main/Nikola%20Misetic%20Resume.pdf).
 
-## Work Examples
+## Work Examples:
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+### Census Analysis
 
-```{r}
-1 + 1
-```
+You can find this analysis here.
 
-You can add options to executable code like this
+### Academic Paper
 
-```{r}
-#| echo: false
-2 * 2
-```
+During my time at GW, I had the privilege studying the intricacies of the executive branch. With this knowledge, I wrote a paper on the Environmental Protection Agency and its impact on U.S. oil policy. In this paper, I discussed several facets of this issue, including the politics of oil and the regulatory process. I was also able to interview Larry Weinstock, a Program Innovation Coordinator at the EPA.
 
-The `echo: false` option disables the printing of code (only output is displayed).
+You can find this paper here.
+
+### Journalism Paper
+
+You can find this paper here.
+
+### Contact Info/Other Links
+
+Github: <https://github.com/nmisetic>
+
+Email: nikola.d.misetic\@gmail.com
