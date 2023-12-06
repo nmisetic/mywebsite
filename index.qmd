@@ -22,7 +22,7 @@ You can find this analysis here.
 
 During my time at GW, I had the privilege studying the intricacies of the executive branch. With this knowledge, I wrote a paper on the Environmental Protection Agency and its impact on U.S. oil policy. In this paper, I discussed several facets of this issue, including the politics of oil and the regulatory process. I was also able to interview Larry Weinstock, a Program Innovation Coordinator at the EPA.
 
-You can find this paper here.
+You can find this paper [here](https://nmisetic.github.io/mywebsite/Academic.html).
 
 ### Journalism Paper
 
